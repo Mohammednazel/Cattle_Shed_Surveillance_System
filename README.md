@@ -13,7 +13,7 @@ The Cattle Shed Surveillance System is an innovative project designed to revolut
 ## Technologies Used
 - Python
 - OpenCV (cv2)
-- YOLO (You Only Look Once) object detection algorithm
+- YOLO (You Only Look Once) version 8 object detection algorithm 
 - Twilio API for alert notifications
 
 ## Dataset
